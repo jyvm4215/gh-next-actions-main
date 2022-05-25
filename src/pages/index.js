@@ -3,5 +3,6 @@ export default function Home() {
     <>
       <h1>Hello Next.js</h1>
     </>
-  );
+  )
+  <br>hola</br>
 }
